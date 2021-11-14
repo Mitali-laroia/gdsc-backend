@@ -1,0 +1,23 @@
+{
+  "name": "gdsc-backend",
+  "version": "1.0.0",
+  "description": "it is a bmi calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitali-laroia/gdsc-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitali-laroia/gdsc-backend/issues"
+  },
+  "homepage": "https://github.com/Mitali-laroia/gdsc-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
